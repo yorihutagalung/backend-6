@@ -1,0 +1,28 @@
+{
+    "references" : [
+      {"id":"cd73e5d8-bd83-4885-a210-63d4dc09f4f1","applicant":"Lib Guiu","application_date":"2019-12-27","amount_applied":"27853.36","status":1},
+      {"id":"372701c7-b248-42f6-9973-7ed47439e50a","applicant":"Carmon Walsom","application_date":"2019-11-30","amount_applied":"27497.96","status":0},
+      {"id":"4b59c0ee-d326-4a30-aa92-510cfee9f420","applicant":"Bent Loyndon","application_date":"2019-12-19","amount_applied":"27157.72","status":1},
+      {"id":"0d1a5452-1a16-4559-917a-68adaef8f56d","applicant":"Dinnie Cathrall","application_date":"2019-08-01","amount_applied":"21585.85","status":0},
+      {"id":"23eda26b-4baa-4876-8c7c-a3245bb9d8b4","applicant":"Jude Cobson","application_date":"2019-06-20","amount_applied":"15071.65","status":1},
+      {"id":"1e418ab2-9a6a-439d-a900-2c8df8abf72a","applicant":"Yorke Zannelli","application_date":"2019-04-24","amount_applied":"14357.99","status":0},
+      {"id":"deada5cb-b3d2-47ce-aab9-1d3704716ad5","applicant":"Penni Goldfinch","application_date":"2019-03-30","amount_applied":"15289.17","status":0},
+      {"id":"72047ae4-0d8d-496b-bc0a-8fc12b525339","applicant":"Donia Fairchild","application_date":"2020-01-13","amount_applied":"28343.01","status":0},
+      {"id":"2456cbda-b943-400a-ba9d-0198ed79e5d1","applicant":"Mattheus McGeagh","application_date":"2019-03-27","amount_applied":"12312.89","status":0},
+      {"id":"b04219a6-2ebb-4b81-95f7-0377448eac8e","applicant":"Reginauld Menelaws","application_date":"2019-04-13","amount_applied":"25948.09","status":0}
+    ],
+    "cd73e5d8-bd83-4885-a210-63d4dc09f4f1" : {
+      "id":"cd73e5d8-bd83-4885-a210-63d4dc09f4f1",
+      "applicant":"Lib Guiu","application_date":"2019-12-27",
+      "amount_applied":"27853.36",
+      "amount_guaranteed":"1217.34",
+      "user_guaranteed":"1027.88",
+      "status":1,
+      "guaranteed":[
+        {"amount":"1537.82","name":"Ardelle Docherty"},
+        {"amount":"1730.01","name":"Bethena Rimington"},
+        {"amount":"1073.77","name":"Brien Butfield"},
+        {"amount":"1981.31","name":"Essie Wellbeloved"}
+       ]
+    }
+}
